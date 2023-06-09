@@ -1,0 +1,68 @@
+{
+    "name": "zkSync Era Testnet Token List",
+    "logoURI": "https://raw.githubusercontent.com/klaytn/klaytn-cypress-setup-workshop/main/static/images/Logo-2.png",
+    "keywords": [
+      "Kakao",
+      "layer1",
+      "metaverse"
+    ],
+    "timestamp": "2023-04-17T19:37:05.681Z",
+    "tokens": [
+      {
+        "name": "Klay",
+        "address": "0x0000000000000000000000000000000000000000",
+        "symbol": "KLAY",
+        "decimals": 18,
+        "chainId": 1001,
+        "logoURI": "https://raw.githubusercontent.com/klaytn/klaytn-cypress-setup-workshop/main/static/images/Logo-2.png"
+      },
+      {
+        "name": "Wrapped KLAY",
+        "address": "0x20b28B1e4665FFf290650586ad76E977EAb90c5D",
+        "symbol": "WKLAY",
+        "decimals": 18,
+        "chainId": 1001,
+        "logoURI": "https://assets.coingecko.com/coins/images/26241/small/klaytn-447b48a244a62e21497e9e980569572089ee29fd320b8d03ceb2f68526689218.png?1656915349"
+      },
+      {
+        "address": "0x0faF6df7054946141266420b43783387A78d82A9",
+        "chainId": 1001,
+        "name": "Orbit Bridged USDC",
+        "symbol": "oUSDC",
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg"
+      },
+      {
+        "chainId": 1001,
+        "address": "0x7696b6daAf440EfB3701EC340ED5541E089577d6",
+        "name": "Arete",
+        "symbol": "ARETE",
+        "decimals": 18,
+        "logoURI": "https://i.ibb.co/Vj5rDgx/ARETE-logo-3.png" 
+      },
+      {
+        "chainId": 1001,
+        "address": "0x0BfcE1D53451B4a8175DD94e6e029F7d8a701e9c",
+        "name": "Wrapped BTC",
+        "symbol": "oWBTC",
+        "decimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/btc.jpg"
+      },
+      {
+        "chainId": 1001,
+        "address": "0x3e7676937A7E96CFB7616f255b9AD9FF47363D4b",
+        "name": "DAI Stablecoin",
+        "symbol": "KDAI",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1/logo.png"
+      },
+      {
+        "chainId": 1001,
+        "address": "0xAC8B1386003aB1F9CEd110960DBc9d288E98988E",
+        "name": "Arete Test",
+        "symbol": "aTEST",
+        "decimals": 18,
+        "logoURI": "https://i.ibb.co/Vj5rDgx/ARETE-logo-3.png"
+      }
+    ]    
+  }
